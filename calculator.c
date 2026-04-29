@@ -1,4 +1,5 @@
 /*
+ * MIT License - Copyright (c) 2026 Pshir
  * calculator.c
  * A clean, interactive command-line calculator in C.
  * Supports: +, -, *, /, %, ^ (power), and parentheses.
